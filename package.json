@@ -1,0 +1,11 @@
+{
+  "name": "weekendproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kasuengas/weekendproject.git",
+  "author": "Kasuengas@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
